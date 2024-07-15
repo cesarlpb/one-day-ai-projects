@@ -1,4 +1,7 @@
 nltk 
 textblob
 pandas
-ipykernel 
+ipykernel
+scikit-learn
+seaborn
+matplotlib
